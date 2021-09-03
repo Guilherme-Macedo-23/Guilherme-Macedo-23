@@ -3,7 +3,6 @@
 - 🔭 Hoje procuro uma oportunidade para atuar no front-end
 - 🌱 Estudando React
 - 👯 Contate-me no email: guilhermemacedo.fullstack@gmail.com
-- 😄 Pronouns: ele/ela
 - ⚡ Fun fact: Gamer
 
 <div>
