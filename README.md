@@ -2,6 +2,7 @@
 
 - 🔭 Looking for an opportunity to work on the Front-End
 - 🌱 Studying React
+- ⚡ Hobbies: Games, Movies, Books and Musics
 
 <div>
   <a href="https://github.com/guilherme2303220">
