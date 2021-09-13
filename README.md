@@ -1,4 +1,4 @@
-### Olá! Eu sou o Guilherme Macedo 👋
+### Hey, I'm Guilherme Macedo! 👋
 
 - 🔭 Looking for an opportunity to work on the Front-End
 - 🌱 Studying React
