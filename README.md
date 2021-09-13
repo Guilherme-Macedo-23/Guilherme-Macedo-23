@@ -25,4 +25,4 @@
   <a href = "mailto:guilhermemacedo.fullstack@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <href="https://www.linkedin.com/in/guilherme-macedo-19b542208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
-  
+  ![Snake animation](https://github.com/Guilherme-Macedo-23/Guilherme-Macedo-23/blob/output/github-contribution-grid-snake.svg)
