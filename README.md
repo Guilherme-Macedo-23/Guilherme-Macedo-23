@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Guilherme Macedo 👋
 
-- 🔭 Hoje procuro uma oportunidade para atuar no front-end
-- 🌱 Estudando React
-- 👯 Contate-me no email: guilhermemacedo.fullstack@gmail.com
+- 🔭 Looking for an opportunity to work on the Front-End
+- 🌱 Studying React
 - ⚡ Fun fact: Gamer
 
 <div>
