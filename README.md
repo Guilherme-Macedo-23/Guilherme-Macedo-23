@@ -2,7 +2,6 @@
 
 - 🔭 Looking for an opportunity to work on the Front-End
 - 🌱 Studying React
-- ✉️ Guilhermemacedo.fullstack@gmail.com
 
 <div>
   <a href="https://github.com/guilherme2303220">
