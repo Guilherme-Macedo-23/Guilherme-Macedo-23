@@ -1,7 +1,7 @@
 ### Hey, I'm Guilherme Macedo! 👋
 
-- 🔭 Looking for an opportunity to work on the Front-End
-- 🌱 Studying React
+- 🔭 Front-End Developer on Linnks Tecnologia 
+- 🌱 Studying React and Angular
 - ⚡ Hobbies: Games, Movies, Books and Musics
 
 <div>
