@@ -1,6 +1,6 @@
 ### Hey, I'm Guilherme Macedo! 👋
 
-- 🔭 Front-End Developer at Linnks Tecnologia 
+- 🔭 Front-End Developer at Octa Link 
 - 🌱 Studying React and Angular
 - ⚡ Hobbies: Games, Movies, Books and Musics
 
