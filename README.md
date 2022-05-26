@@ -1,6 +1,6 @@
 ### Hey, I'm Guilherme Macedo! 👋
 
-- 🔭 Front-End Developer at Octa Link 
+- 🔭 Front-End Developer
 - ⚡ Hobbies: Games, Movies, Books and Musics
 
 <div>
